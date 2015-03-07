@@ -1,9 +1,9 @@
-Script que devuelve los link de una pagina de youtube
+# Script que devuelve los link de una pagina de youtube
 
-Ejecutar
-1° 
-$  npm install cheerio 
-$  npm install request
+# Ejecutar
 
-2° 
-$ node you.js
+´´´sh
+npm install cheerio 
+npm install request
+node you.js
+´´´
